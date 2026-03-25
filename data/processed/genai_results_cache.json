@@ -1,0 +1,607 @@
+{
+  "811512284596e1ad98474a543dc670e1": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The customer confirmed \u20b91.8 Cr is within their budget.",
+    "preferred_area": "Whitefield",
+    "area_reasoning": "The customer explicitly stated Whitefield is perfect because their office is nearby.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.95,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "The location is perfect for me. My office is barely 10 minutes away!",
+      "That's within my budget.",
+      "Can we schedule a site visit this Saturday? I'd love to bring my family."
+    ],
+    "customer_persona": "Upgrader",
+    "urgency": "Immediate",
+    "pain_points": [],
+    "positive_signals": [
+      "Expressed strong admiration for the property online.",
+      "Location is ideal due to proximity to office.",
+      "Budget aligns perfectly with the property price.",
+      "Immediately requested a site visit with family."
+    ],
+    "recommended_action": "Prepare thoroughly for the scheduled site visit on Saturday and ensure all requested information (floor plans, schools) has been received.",
+    "summary": "Anil Mehta is highly interested in Sunrise Villa in Whitefield, Bangalore. The property's location and price perfectly match his requirements, and he has scheduled a site visit for this Saturday with his family. He has a very positive sentiment about the property."
+  },
+  "01a93d48c99cceff875a83de7a54ecee": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The property's amenities (Olympic pool, clubhouse, EV charging, 5000 sqft kids' zone) and super built-up area (1450 sqft) suggest a premium segment in Bangalore, typically falling within this range.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Only the project name 'Green Park Apartment' was mentioned, not a specific Bangalore locality.",
+    "interest_level": "Interested",
+    "sentiment_score": 0.85,
+    "sales_stage": "Follow-up Pending",
+    "conversion_likelihood": "High",
+    "key_signals": [
+      "Customer has a 'checklist' for amenities and asks detailed questions.",
+      "Specific inquiry about children's play zone for their two kids aged 4 and 7.",
+      "Expressed positive sentiment ('That's impressive') and requested brochure/legal docs, promising a decision by Tuesday."
+    ],
+    "customer_persona": "Upgrader",
+    "urgency": "Immediate",
+    "pain_points": [],
+    "positive_signals": [
+      "Expressed satisfaction with amenities ('That's impressive')",
+      "Requested brochure and legal documents summary",
+      "Committed to a decision by the follow-up date"
+    ],
+    "recommended_action": "Follow up with Deepa Nair on Tuesday as agreed to discuss their decision and address any further questions.",
+    "summary": "Deepa Nair is a highly interested customer with specific family needs, particularly regarding amenities and children's facilities. She expressed satisfaction with the property's offerings and has requested detailed documents to make a decision with her spouse. A follow-up is scheduled for Tuesday, indicating a strong potential for conversion."
+  },
+  "5bc58fbe62d5364a422039051859c87d": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Customer is inquiring about an investment property in Electronic City, for which 50L-1Cr is a common price range for a typical investment unit.",
+    "preferred_area": "Electronic City",
+    "area_reasoning": "Customer specifically enquired about 'Metro Heights' which is located in Electronic City, Bangalore.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "I want pure numbers \u2014 what's the rental yield for Metro Heights?",
+      "Numbers are reasonable. Send me the investment report. I'll go through it with my CA.",
+      "Yes, Friday evening. I'll have my CA's feedback by then."
+    ],
+    "customer_persona": "Investor",
+    "urgency": "Unknown",
+    "pain_points": [
+      "Doesn't want to deal with tenants"
+    ],
+    "positive_signals": [
+      "Found numbers reasonable",
+      "Agreed to schedule a call Friday",
+      "Involving CA for financial advice"
+    ],
+    "recommended_action": "Prepare thoroughly for the Friday call, anticipating questions from the customer and their CA regarding the investment report and property details.",
+    "summary": "The customer is a highly interested investor focused on rental yield and appreciation for Metro Heights in Electronic City. They found the initial numbers reasonable and requested a detailed investment report to review with their CA, agreeing to a follow-up call on Friday."
+  },
+  "5a664fb57f0aaad8fb082f9bd5e8d3f8": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "The customer is a first-time buyer and concerned about home loans, suggesting a typical mid-range budget, though no specific figures were mentioned.",
+    "preferred_area": "Not Specified",
+    "area_reasoning": "The customer only mentioned interest in 'Royal Residency' and did not specify a preferred Bangalore locality.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "Wanted to ask about Royal Residency.",
+      "Can we visit next week?",
+      "I feel much more confident now!"
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Within 3 Months",
+    "pain_points": [
+      "Legal stuff mainly. How do I know the title is clear and there are no disputes?",
+      "What about home loans? My CIBIL is around 740."
+    ],
+    "positive_signals": [
+      "That's reassuring.",
+      "That's such a relief.",
+      "I feel much more confident now!"
+    ],
+    "recommended_action": "Conduct the scheduled site visit and legal session as planned for Wednesday at 10 AM.",
+    "summary": "Meena is a first-time buyer highly interested in Royal Residency. Her primary concerns about legal clarity and home loan eligibility were effectively addressed by the salesman, leading to a significant increase in her confidence. She has proactively scheduled a site visit and a session with the legal team for next week."
+  },
+  "eb34fe57d1537f5030aec2624ee73f38": {
+    "budget_range": "Below 50L",
+    "budget_reasoning": "The customer explicitly stated they are not thinking of buying any property, making budget irrelevant.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "No specific area was mentioned or inferred as the customer denied any property inquiry and expressed no interest in buying.",
+    "interest_level": "Not Interested",
+    "sentiment_score": 0.0,
+    "sales_stage": "Closed - No Sale",
+    "conversion_likelihood": "Very Low",
+    "key_signals": [
+      "\u0ca8\u0cbe\u0ca8\u0cc1 \u0c85\u0ca6\u0c95\u0ccd\u0c95\u0cbe\u0c97\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb5\u0cbf\u0c9a\u0cbe\u0cb0\u0ca3\u0cc6 \u0cae\u0cbe\u0ca1\u0cbf\u0cb2\u0ccd\u0cb2.",
+      "\u0ca8\u0cbe\u0ca8\u0cc1 \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 property \u0c96\u0cb0\u0cc0\u0ca6\u0cbf\u0cb8\u0cc1\u0cb5 \u0caf\u0ccb\u0c9a\u0ca8\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf\u0cb2\u0ccd\u0cb2.",
+      "\u0ca6\u0caf\u0cb5\u0cbf\u0c9f\u0ccd\u0c9f\u0cc1 \u0ca8\u0ca8\u0ccd\u0ca8 \u0cb8\u0c82\u0c96\u0ccd\u0caf\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cae\u0ccd\u0cae \u0c95\u0cb0\u0cc6 \u0caa\u0c9f\u0ccd\u0c9f\u0cbf\u0caf\u0cbf\u0c82\u0ca6 \u0ca4\u0cc6\u0c97\u0cc6\u0ca6\u0cc1\u0cb9\u0cbe\u0c95\u0cbf."
+    ],
+    "customer_persona": "Just Browsing",
+    "urgency": "No Urgency",
+    "pain_points": [
+      "Unsolicited call",
+      "No intention to buy property"
+    ],
+    "positive_signals": [],
+    "recommended_action": "Remove customer's contact details from all call lists and refrain from further contact.",
+    "summary": "The customer explicitly denied making any inquiry about Palm Meadows Villas and stated they are not thinking of buying any property. They requested to be removed from the call list, indicating complete disinterest in property purchase."
+  },
+  "46b89912e0d7ea28847b236c76d138df": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "The salesman mentioned 'Harmony Flats \u2014 \u20b958 L' which falls into this range.",
+    "preferred_area": "HSR Layout",
+    "area_reasoning": "The customer initially submitted an inquiry for HSR Layout, Bangalore.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.55,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [
+      "I'm only casually browsing. Not in a hurry to buy.",
+      "What floor options are available?",
+      "What about parking? We have two vehicles."
+    ],
+    "customer_persona": "Just Browsing",
+    "urgency": "No Urgency",
+    "pain_points": [],
+    "positive_signals": [
+      "Asking about floor options available.",
+      "Inquiring about parking for two vehicles.",
+      "Requesting the brochure for the property."
+    ],
+    "recommended_action": "Follow up in a week to check if the brochure was reviewed and address any questions.",
+    "summary": "The customer, Vikram Jain, initially stated he was casually browsing and not in a hurry to buy for HSR Layout. Despite this, he asked specific questions about floor options and parking for two vehicles, indicating some interest. He requested the brochure, suggesting a willingness to consider the property further, but with no immediate urgency."
+  },
+  "290a7fff91f3f0bbcdbd2462ef563f4c": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "The customer was quoted an all-in price of \u20b968 L for a 2 BHK.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "No specific Bangalore locality was mentioned by the customer.",
+    "interest_level": "Interested",
+    "sentiment_score": 0.75,
+    "sales_stage": "Follow-up Pending",
+    "conversion_likelihood": "High",
+    "key_signals": [
+      "Ready to move? Seriously? Most builders are 2 years late.",
+      "Okay, that actually caught my attention.",
+      "I like that transparency. Can you send photos and exact floor plan?"
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Immediate",
+    "pain_points": [
+      "getting too many calls",
+      "Most builders are 2 years late",
+      "No hidden charges?"
+    ],
+    "positive_signals": [
+      "Positive reaction to 'ready-to-move' status.",
+      "Explicitly stated 'caught my attention'.",
+      "Appreciated transparency and requested photos/floor plan.",
+      "Willingness to confirm a site visit."
+    ],
+    "recommended_action": "Follow up tomorrow to confirm the site visit after the customer reviews the sent photos and floor plan.",
+    "summary": "Kavitha Bhat, initially skeptical about builder delays and hidden charges, showed significant interest in Skyline Towers due to its ready-to-move status and transparent pricing at \u20b968 L for a 2 BHK. She is currently reviewing photos and floor plans and will confirm a site visit for the weekend."
+  },
+  "e1cabfe5e92a545390ced95d6d5c5553": {
+    "budget_range": "Above 2Cr",
+    "budget_reasoning": "The salesman mentioned a price of '\u20b92.1 Cr' for the property.",
+    "preferred_area": "JP Nagar",
+    "area_reasoning": "The salesman explicitly mentioned 'Garden Grove in JP Nagar, Bangalore' and the customer did not object.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.4,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [
+      "I'm busy. What's this about?",
+      "I'm already considering something else.",
+      "Sure, send it. But I won't reply quickly."
+    ],
+    "customer_persona": "Just Browsing",
+    "urgency": "No Urgency",
+    "pain_points": [
+      "Already considering something else",
+      "Lack of time/availability"
+    ],
+    "positive_signals": [
+      "Agreed to receive brochure"
+    ],
+    "recommended_action": "Follow up in a week to check if the brochure was reviewed, offering further assistance without pressure.",
+    "summary": "The customer was initially busy and mentioned they are already considering other options and just exploring. They agreed to receive a brochure for a 4 BHK flat in JP Nagar at \u20b92.1 Cr but stated they would not reply quickly, indicating low urgency and neutral interest."
+  },
+  "d9c034ec6e59ae36caac43fc56f359ba": {
+    "budget_range": "Below 50L",
+    "budget_reasoning": "The customer explicitly stated they are not buying any property, making any budget irrelevant.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "The customer expressed no interest in property, so no area was discussed or inferred.",
+    "interest_level": "Not Interested",
+    "sentiment_score": 0.05,
+    "sales_stage": "Closed - No Sale",
+    "conversion_likelihood": "Very Low",
+    "key_signals": [
+      "I never made any inquiry.",
+      "I'm not buying any property.",
+      "Please don't call again."
+    ],
+    "customer_persona": "Just Browsing",
+    "urgency": "No Urgency",
+    "pain_points": [
+      "Unsolicited contact",
+      "Privacy concerns"
+    ],
+    "positive_signals": [],
+    "recommended_action": "Ensure the customer's number is marked DND and removed from all contact lists immediately.",
+    "summary": "The customer received an unsolicited call and was highly displeased, stating they never made an inquiry and are not interested in buying or renting property. They explicitly requested their number be marked DND and not called again, indicating a complete lack of interest and a negative experience."
+  },
+  "181d6d6c0314d5c1c9ba700d2c1d473c": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "The customer explicitly stated their budget limit is around 80 lakhs.",
+    "preferred_area": "Lakeview Heights",
+    "area_reasoning": "The customer initiated the conversation by mentioning Lakeview Heights as the property they saw.",
+    "interest_level": "Interested",
+    "sentiment_score": 0.8,
+    "sales_stage": "Follow-up Pending",
+    "conversion_likelihood": "High",
+    "key_signals": [
+      "My limit is around 80 lakhs.",
+      "What would the EMI look like on a 70 lakh loan for 20 years?",
+      "Oh that's a good deal! Let me calculate my finances. Can you hold the unit for a week?"
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Within 3 Months",
+    "pain_points": [
+      "Concerned about exceeding budget"
+    ],
+    "positive_signals": [
+      "Found EMI manageable",
+      "Positive reaction to offers and discounts",
+      "Requested to hold the unit"
+    ],
+    "recommended_action": "Follow up with the customer by Thursday as they promised to call back after talking to their bank.",
+    "summary": "The customer, Hari Patil, is interested in Lakeview Heights with a budget limit of 80 lakhs. They found the EMI manageable and were very positive about the current offers, asking to hold the unit for a week to calculate finances. They plan to call back by Thursday after consulting their bank."
+  },
+  "078c06989fcb1d835b6ae86f30cf36cd": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The customer is inquiring about Prestige Gardens, which the salesman states is \u20b91.5 Cr.",
+    "preferred_area": "Yelahanka",
+    "area_reasoning": "The customer specifically asked about 'Prestige Gardens' which is located in Yelahanka.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "Looking to invest back home in Bangalore.",
+      "Can the entire purchase process be handled remotely?",
+      "I'd like a virtual tour then. Can your team arrange a live video walkthrough?"
+    ],
+    "customer_persona": "NRI Buyer",
+    "urgency": "Within 3 Months",
+    "pain_points": [
+      "Inability to visit India until December (requires remote process)",
+      "Concerns about repatriation of rental income and RBI restrictions"
+    ],
+    "positive_signals": [
+      "Explicitly stated 'Looking to invest back home in Bangalore.'",
+      "Requested and scheduled a virtual tour for the upcoming weekend.",
+      "Asked for documentation beforehand, indicating readiness to proceed."
+    ],
+    "recommended_action": "Send the calendar invite for the virtual tour and all requested documentation to the customer promptly.",
+    "summary": "The customer is an NRI based in Dubai, highly interested in investing in Prestige Gardens, Yelahanka, priced at \u20b91.5 Cr. They have specific concerns about remote purchase processes and repatriation of rental income, but have scheduled a virtual tour and requested documentation, indicating strong intent to proceed."
+  },
+  "b7f28366efff8597fcc7ea0a450ccda0": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The customer is comparing projects based on 'price-to-quality ratio' and 'more square footage at the same price' for a property in Devanahalli, indicating a significant investment in this range.",
+    "preferred_area": "Devanahalli, Bangalore",
+    "area_reasoning": "The salesman explicitly mentioned 'Golden Palms in Devanahalli, Bangalore' and the customer did not object, indicating it is a preferred area.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "That's genuinely impressive.",
+      "Put me on your priority list and send the comparison document.",
+      "Yes, book me for Sunday. I'll finalize by next week."
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Immediate",
+    "pain_points": [
+      "Concern about getting more square footage for the same price from competitors.",
+      "Concern about developer's delivery track record and potential delays."
+    ],
+    "positive_signals": [
+      "Expressed genuine impressiveness with the developer's 100% on-time delivery record.",
+      "Agreed to a site visit and stated intent to finalize by next week."
+    ],
+    "recommended_action": "Confirm the site visit details for Sunday and prepare all necessary documents for potential finalization next week.",
+    "summary": "The customer, Nitin Kumar, is highly interested in Golden Palms in Devanahalli, Bangalore, after being impressed by the developer's on-time delivery record. He has agreed to a site visit this Sunday and plans to finalize his decision by next week. His main concerns were value for money (square footage vs. price) and developer reliability."
+  },
+  "95ed3c504488028ddc18815a4c422678": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "While no explicit budget was mentioned, the customer is inquiring about Brigade Meadows for retirement, which typically implies a comfortable apartment with amenities, likely falling into this range in Kanakapura.",
+    "preferred_area": "Kanakapura, Bangalore",
+    "area_reasoning": "The customer specifically inquired about 'Brigade Meadows' which the salesman confirmed is in 'Kanakapura, Bangalore'.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "My son asked me to call about Brigade Meadows for retirement purposes.",
+      "Is there a lift? I have knee issues and cannot climb stairs.",
+      "When can we come see it? ... Let's say Thursday morning at 10?"
+    ],
+    "customer_persona": "Retirement Buyer",
+    "urgency": "Within 3 Months",
+    "pain_points": [
+      "knee issues and cannot climb stairs",
+      "cannot drive anymore"
+    ],
+    "positive_signals": [
+      "Son's recommendation for the property",
+      "Positive reaction to amenities and services",
+      "Proactively scheduled a site visit"
+    ],
+    "recommended_action": "Confirm site visit details for Thursday at 10 AM, prepare to highlight senior-friendly features and accessibility during the visit, and ensure pick-up/drop-off is arranged.",
+    "summary": "The customer, Rekha Naidu, is a retirement buyer specifically interested in Brigade Meadows in Kanakapura, recommended by her son. She has specific needs regarding accessibility (lifts due to knee issues) and local amenities (grocery, hospitals due to inability to drive). She was highly satisfied with the salesman's answers and proactively scheduled a site visit for Thursday morning."
+  },
+  "bd326b3ed0a72683699551588fa2aa40": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The customer is interested in a 2 BHK in a Prestige property, which typically falls within this range, and found the maintenance charge of \u20b93,500 reasonable.",
+    "preferred_area": "Varthur",
+    "area_reasoning": "The customer explicitly asked about 'Prestige Lakeside', which is located in Varthur, Bangalore.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "Sounds exactly like what I need.",
+      "I'd like to see it this week if possible.",
+      "That's reassuring."
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Immediate",
+    "pain_points": [
+      "Security concerns (living alone)",
+      "Desire for a quiet society culture"
+    ],
+    "positive_signals": [
+      "Expressed satisfaction with security features.",
+      "Found maintenance charges reasonable.",
+      "Explicitly requested a site visit this week."
+    ],
+    "recommended_action": "Immediately schedule a site visit for Prestige Lakeside this week as requested by the customer.",
+    "summary": "Sanjay Singh is highly interested in a 2 BHK at Prestige Lakeside, seeking a compact and secure place for independent living. He expressed satisfaction with the security features and society culture described, and explicitly requested a site visit this week, indicating strong intent."
+  },
+  "da46c1613ea244adcbf9d738af8d6003": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The salesman quoted \u20b91.1 Cr for a 3 BHK, which the customer did not object to and continued to express high interest.",
+    "preferred_area": "Thanisandra",
+    "area_reasoning": "The customer specifically asked about 'Sobha City' which is located in Thanisandra and showed positive engagement with the property details.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "We're genuinely excited.",
+      "Can we visit this Sunday with my parents?",
+      "Really looking forward to it!"
+    ],
+    "customer_persona": "First-Time Buyer",
+    "urgency": "Immediate",
+    "pain_points": [],
+    "positive_signals": [
+      "We love the idea of a community.",
+      "That sounds amazing! What about work-from-home setup?",
+      "We're genuinely excited."
+    ],
+    "recommended_action": "Prepare thoroughly for the scheduled site visit on Sunday at 11 AM, ensuring all details for the parents' tour are ready.",
+    "summary": "The customer, a newlywed couple, is highly interested in Sobha City in Thanisandra for their first home, appreciating its community and work-from-home facilities. They expressed genuine excitement and immediately scheduled a site visit with their parents for the upcoming Sunday, indicating strong intent and urgency."
+  },
+  "95dd3ea3aae7984ebb8137bd4c1851b9": {
+    "budget_range": "Above 2Cr",
+    "budget_reasoning": "The customer is upgrading to a spacious 3 BHK (1800 sqft) in a prime Bangalore locality (Hebbal) from a known developer (Purva Atmosphere), which typically falls into the premium segment.",
+    "preferred_area": "Hebbal, Bangalore",
+    "area_reasoning": "The salesman explicitly mentioned Purva Atmosphere in Hebbal, and the customer showed no objection, focusing on other aspects of the property.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.9,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "desperately need more space. Two kids and work-from-home is chaos.",
+      "That's exactly what we need.",
+      "We'll visit this weekend and make a decision."
+    ],
+    "customer_persona": "Upgrader",
+    "urgency": "Immediate",
+    "pain_points": [
+      "Lack of space in current 2 BHK",
+      "Chaos due to two kids and work-from-home"
+    ],
+    "positive_signals": [
+      "Flexible room meets dedicated study need",
+      "Ready-to-move timing is perfect for school reopening",
+      "Complimentary modular kitchen and free maintenance is a 'good deal'",
+      "Commitment to visit this weekend and make a decision"
+    ],
+    "recommended_action": "Confirm the site visit details, prepare a detailed presentation focusing on the flexible room and family-friendly aspects, and be ready to close the deal.",
+    "summary": "The customer is an upgrader from a 2 BHK, desperately needing more space for their family and work-from-home setup. They are highly interested in Purva Atmosphere in Hebbal, as it meets their specific needs for a flexible study room and offers immediate possession. The customer found the offered deal attractive and committed to a site visit this weekend to make a decision."
+  },
+  "f5223da031a476bf86573f46aba08992": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The customer confirmed that \u20b91.8 Cr is within their budget.",
+    "preferred_area": "Whitefield",
+    "area_reasoning": "The customer explicitly stated Whitefield is perfect due to its proximity to their office.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.95,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "The location is perfect for me. My office is barely 10 minutes away!",
+      "That's within my budget.",
+      "Can we schedule a site visit this Saturday? I'd love to bring my family."
+    ],
+    "customer_persona": "Upgrader",
+    "urgency": "Immediate",
+    "pain_points": [],
+    "positive_signals": [
+      "I saw Sunrise Villa online and it looks absolutely stunning!",
+      "The location is perfect for me.",
+      "That's within my budget.",
+      "Can we schedule a site visit this Saturday? I'd love to bring my family.",
+      "I have such a good feeling about this."
+    ],
+    "recommended_action": "Conduct the site visit as scheduled and follow up immediately afterwards to address any questions and move towards booking.",
+    "summary": "The customer, Anita Anand, is highly interested in Sunrise Villa in Whitefield, finding the location perfect and the \u20b91.8 Cr price within budget. She has scheduled a site visit for this Saturday with her family and requested floor plans and nearby school information, indicating strong intent."
+  },
+  "2bbeda10b20e64e79330278e4ad795c2": {
+    "budget_range": "1Cr - 2Cr",
+    "budget_reasoning": "The mentioned amenities like an Olympic-size pool, EV charging, and a 5,000 sqft kids' zone suggest a premium apartment, likely falling within this range in Bangalore.",
+    "preferred_area": "Bangalore",
+    "area_reasoning": "The property 'Green Park Apartment' is located in Bangalore, but no specific locality was mentioned by the customer.",
+    "interest_level": "Highly Interested",
+    "sentiment_score": 0.85,
+    "sales_stage": "Site Visit Scheduled",
+    "conversion_likelihood": "Very High",
+    "key_signals": [
+      "Can you break down the amenities? I have a checklist.",
+      "Any children's play zone? We have two kids aged 4 and 7.",
+      "Let me talk to my spouse and revert. Can you email the brochure and legal docs summary?"
+    ],
+    "customer_persona": "Upgrader",
+    "urgency": "Within 3 Months",
+    "pain_points": [],
+    "positive_signals": [
+      "Good.",
+      "That's impressive.",
+      "Tuesday is fine. We should have a decision by then."
+    ],
+    "recommended_action": "Follow up with Rajesh Malhotra on Tuesday as agreed to discuss their decision after reviewing the brochure and legal documents with his spouse.",
+    "summary": "The customer, Rajesh Malhotra, showed high interest in Green Park Apartment, asking detailed questions about amenities, carpet area, and specifically a children's play zone for his two kids. He found the kids' zone impressive and requested the brochure and legal documents to discuss with his spouse. He expects to make a decision by Tuesday."
+  },
+  "e2c10d133eb4660147d3ef59e75d61a5": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NewConnectionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NewConnectionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to establish a new connection: [Errno 51] Network is unreachable\"))"
+  },
+  "19dc907ba110e8b80bbf719991059305": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  "f95660923649043c83ec6f744e9fc8cd": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  "867c898b195a7fca2c8fbac3e742dc03": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  "bf65059b148a760aeb07f3ed354b62c6": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  "3011dd001ca3b3ece6aaf40908bb79a2": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  "b2ab8053e71854e2b50bcca26ad3552b": {
+    "budget_range": "50L - 1Cr",
+    "budget_reasoning": "Could not be determined.",
+    "preferred_area": "Unknown",
+    "area_reasoning": "Could not be determined.",
+    "interest_level": "Neutral",
+    "sentiment_score": 0.5,
+    "sales_stage": "Brochure Sent",
+    "conversion_likelihood": "Medium",
+    "key_signals": [],
+    "customer_persona": "Unknown",
+    "urgency": "Unknown",
+    "pain_points": [],
+    "positive_signals": [],
+    "recommended_action": "Follow up with standard brochure.",
+    "summary": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "_error": "Error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyA0JTbBxk3YHRDNIowgU_EBJEt8gGn1sxQ (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+}
